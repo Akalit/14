@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\akali\desktop\14\2\2\2\source.cpp(6): warning C4101: vsp: неиспользованная локальная переменная
+  2.vcxproj -> C:\Users\Akali\Desktop\14\2\2\Debug\2.exe
+  2.vcxproj -> C:\Users\Akali\Desktop\14\2\2\Debug\2.pdb (Partial PDB)
